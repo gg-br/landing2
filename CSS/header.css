@@ -29,8 +29,8 @@ header{
 }
 
 .nav-itens.active a {
-    color: rgb(255, 203, 135);
-    border-bottom: 3px solid #6baab3;
+    color: rgb(255, 149, 149);
+    border-bottom: 3px solid #ffffff;
 }
 
 .btn-default{
@@ -38,11 +38,11 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: antiquewhite;
+    background-color: rgb(230, 230, 230);
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
-    box-shadow: 0px 0px 10px 2px rgb(109, 109, 109);
+    box-shadow: 0px 0px 10px 2px rgb(68, 68, 68);
     cursor: pointer;
     transition: background-color 3.s ease;
 }
