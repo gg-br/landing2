@@ -14,11 +14,11 @@
 
 #cta .title{
     font-size: 4rem;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 #cta .title span{
-    color: rgb(126, 0, 0);
+    color: rgb(175, 0, 0);
     text-transform: uppercase;
 }
 
@@ -74,5 +74,11 @@
         height: 100%;
         width: 100%;
         justify-content: center;
+    }
+
+    #cta{
+        width: 100%;
+        align-items: center;
+        text-align: center;
     }
 }

@@ -90,6 +90,7 @@ header{
     }
 
     #mobile_btn{
+        color: rgb(255, 255, 255);
         display: block;
         border: none;
         background-color: transparent;
@@ -117,4 +118,6 @@ header{
         list-style: none;
         text-align: center;
     }
+
+    
 }
