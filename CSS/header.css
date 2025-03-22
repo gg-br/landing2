@@ -32,7 +32,7 @@ header{
 }
 
 .nav-itens.active a {
-    color: rgb(255, 149, 149);
+    color: aquamarine;
     border-bottom: 3px solid #ffffff;
 }
 
