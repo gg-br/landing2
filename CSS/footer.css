@@ -1,0 +1,15 @@
+footer{
+    padding-top: 24px;
+    background-color: rgb(19, 18, 18);
+}
+
+#footer_itens{
+    justify-content: space-between;
+    padding: 0px 8% 24px 8%;
+    align-items: center;
+}
+
+#mae{
+    color: white;
+    font-weight: 500;
+}
